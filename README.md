@@ -11,9 +11,9 @@ I used flexbox to make the site responsive, so the form and accordion move from 
 ## Techniques used:
 * HTML
 * CSS
-* JavaScript
 * Flexbox
-* Responsive design
+* JavaScript
+* Design (responsive)
 
 ## View it live
 https://zealous-sammet-b73787.netlify.app
